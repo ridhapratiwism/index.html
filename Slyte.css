@@ -1,0 +1,20 @@
+body{
+  background-color: #F0FFFF; /*warna kuning cerah*/
+font-family: Arial,sans-serif;/*Jenis huruf yang bersih dan mudah dibaca*/
+color: #191970;/*warna teks utama(Biru Gelap)*/
+}
+
+.kartu profil {
+  width: 300px;
+  magin: 50px auto: /* 50px jarak atas /bawah,auto menengahkan kiri/kanan */
+padding: 20px;
+  background-color: withe;
+  border-radius: 15px: /* membuat sudutmenjadi melengkung */
+box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* efek bayangan */
+tekx-align: center;/* menengahkan semua teks di dalm kartu */
+}
+
+.kertu-profil img {
+  width: 150px
+  border-radius:50%; /* trek untuk membuat gamber persegi menjadi lingkaran sempurna */
+}
