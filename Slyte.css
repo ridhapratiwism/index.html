@@ -1,5 +1,5 @@
 body{
-  background-color: #F0FFFF; /*warna kuning cerah*/
+  background-color: #FFFFEO; /*warna kuning cerah */
 font-family: Arial,sans-serif;/*Jenis huruf yang bersih dan mudah dibaca*/
 color: #191970;/*warna teks utama(Biru Gelap)*/
 }
@@ -16,5 +16,5 @@ tekx-align: center;/* menengahkan semua teks di dalm kartu */
 
 .kertu-profil img {
   width: 150px
-  border-radius:50%; /* trek untuk membuat gamber persegi menjadi lingkaran sempurna */
+  border-radius:50%; /*trek untuk membuat gamber persegi menjadi lingkaran sempurna */
 }
